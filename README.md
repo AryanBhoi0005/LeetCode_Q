@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
