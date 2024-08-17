@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
