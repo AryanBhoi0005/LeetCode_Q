@@ -49,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
