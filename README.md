@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
