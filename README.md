@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
