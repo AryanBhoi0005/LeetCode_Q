@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0143-reorder-list) |
