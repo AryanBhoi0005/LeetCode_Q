@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
