@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
 | ------- |
