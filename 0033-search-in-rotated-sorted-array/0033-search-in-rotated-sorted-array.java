@@ -1,7 +1,6 @@
 class Solution {
-  
     public int search(int[] nums, int target) {
-       int si=0;
+         int si=0;
        int ei=nums.length-1;
        while(si<=ei){
        int mid=si + (ei-si)/2;
