@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0389-find-the-difference) |
+| [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
+| [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
