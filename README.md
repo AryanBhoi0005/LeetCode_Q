@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
