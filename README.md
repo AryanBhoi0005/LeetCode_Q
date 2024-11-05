@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0389-find-the-difference) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
+| [3379-score-of-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3379-score-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
