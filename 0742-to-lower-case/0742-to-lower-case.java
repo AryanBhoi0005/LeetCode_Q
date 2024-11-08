@@ -3,7 +3,11 @@ class Solution {
         StringBuilder sb=new StringBuilder();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            sb.append(Character.toLowerCase(ch));
+            if(ch>='A' && ch<='Z'){
+                sb.append((char)(ch+32));
+            }else{
+                sb.append(ch);
+            }
         }
         return sb.toString();
     }
