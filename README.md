@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0742-to-lower-case) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3379-score-of-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
@@ -243,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
