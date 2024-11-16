@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0742-to-lower-case) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3379-score-of-a-string) |
