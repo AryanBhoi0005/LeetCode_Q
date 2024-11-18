@@ -1,17 +1,26 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        // if(m==0){
-        //     for(int k=0;k<nums2.length;k++){
-        //         nums1[k]=nums2[k];
-        //     }
-        // }
-        int idx=m;
-        int i=0;
-        while(idx<n+m){
-            nums1[idx]=nums2[i];
-            idx++;
-            i++;
-    }
-    Arrays.sort(nums1);
+ int p1 = m - 1;  // Last valid element in nums1
+        int p2 = n - 1;  // Last element in nums2
+        int p = m + n - 1;  // Last position in nums1
+
+        // Merge nums1 and nums2 from the back
+        while (p1 >= 0 && p2 >= 0) {
+            if (nums1[p1] > nums2[p2]) {
+                nums1[p] = nums1[p1];
+                p1--;
+            } else {
+                nums1[p] = nums2[p2];
+                p2--;
+            }
+            p--;
+        }
+
+        // Copy remaining elements from nums2, if any
+        while (p2 >= 0) {
+            nums1[p] = nums2[p2];
+            p2--;
+            p--;
+        }
     }
 }
