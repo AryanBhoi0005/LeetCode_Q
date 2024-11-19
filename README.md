@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0742-to-lower-case) |
+| [1542-consecutive-characters](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1542-consecutive-characters) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3379-score-of-a-string) |
 ## Binary Search
