@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0415-add-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
