@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0387-first-unique-character-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0742-to-lower-case) |
 | [1542-consecutive-characters](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1542-consecutive-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3379-score-of-a-string) |
 ## Binary Search
