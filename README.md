@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
 | [0978-valid-mountain-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0978-valid-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1848-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
