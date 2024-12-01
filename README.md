@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
 | [0978-valid-mountain-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0978-valid-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1848-sum-of-unique-elements) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0414-third-maximum-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 ## String
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
