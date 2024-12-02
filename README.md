@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0646-maximum-length-of-pair-chain) |
+| [0932-monotonic-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0978-valid-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
