@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0742-to-lower-case) |
