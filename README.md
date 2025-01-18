@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 ## String
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/0742-to-lower-case) |
 | [1542-consecutive-characters](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1542-consecutive-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/1894-merge-strings-alternately) |
 | [2235-capitalize-the-title](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/2235-capitalize-the-title) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/AryanBhoi0005/LeetCode_Q/tree/master/3379-score-of-a-string) |
